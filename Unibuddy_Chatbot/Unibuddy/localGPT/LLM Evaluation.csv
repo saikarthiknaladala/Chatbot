@@ -1,0 +1,712 @@
+﻿question,ground_truth_answer,generated_answer
+Courses to choose to become data scientist by pursuing masters in cs in umkc,"The University of Missouri-Kansas City (UMKC) offers a Master of Science in Data Science Analytics ([https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/master-of-science-data-science-analytics/](https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/master-of-science-data-science-analytics/)) program that is designed to prepare students for careers in data science. The program is a great option for students with a background in computer science who want to gain the skills and knowledge necessary to become data scientists.
+
+**Here are the courses you should choose to become a data scientist by pursuing a Master of Science in Computer Science (MS CS) with a Data Science emphasis at UMKC:**
+
+* **Required Courses (15 credit hours)**
+    * COMP-SCI 5530: Principles of Data Science (3 credit hours) - This course introduces students to the fundamental concepts of data science, including data collection, cleaning, analysis, and visualization.
+    * COMP-SCI 5540: Principles of Big Data Management (3 credit hours) - This course covers the concepts and techniques for managing big data, including data storage, processing, and analysis.
+    * COMP-SCI 5565: Introduction to Statistical Learning (3 credit hours) - This course provides an introduction to statistical learning methods, including linear regression, classification, and clustering.
+    * COMP-SCI 5567: Deep Learning (3 credit hours) - This course covers the concepts and techniques of deep learning, a type of artificial intelligence that has been successful in a variety of applications.
+    * COMP-SCI 5588: Data Science Capstone (3 credit hours) - The capstone course allows students to apply their knowledge and skills to a real-world data science project.
+
+* **Elective Courses (15 credit hours)**
+
+You will have the opportunity to choose 15 credit hours of elective courses from a wide range of options. Here are some courses that are particularly relevant to data science:
+
+    * COMP-SCI 5525: Cloud Computing (3 credit hours) - This course covers the concepts and techniques of cloud computing, which is a popular platform for storing and processing big data.
+    * COMP-SCI 5542: Big Data Analytics and Applications (3 credit hours) - This course provides an in-depth exploration of big data analytics techniques and their applications in various domains.
+    * MATH 5545: Mathematical Methods in Data Science (3 credit hours) - This course covers the mathematical foundations of data science, including linear algebra, probability, and statistics.
+    * MIS 5507: Business Analytics and Statistics (3 credit hours) - This course introduces students to the concepts and techniques of business analytics, which is a field that is closely related to data science.
+    * MIS 5557: Data Management and Data Mining for Business Analytics (3 credit hours) - This course covers the concepts and techniques for data management and data mining, which are essential skills for data scientists.
+    * STAT 5501: Statistical Design Of Experiments (3 credit hours) - This course covers the design and analysis of experiments, which is an important skill for data scientists who want to be able to draw causal inferences from data.
+    * STAT 5561: Time Series Analysis (3 credit hours) - This course covers the analysis of time series data, which is a type of data that is collected over time.
+
+**Additional Tips**
+
+* In addition to the coursework, it is also important to gain experience in data science through internships or personal projects.
+* Consider participating in data science hackathons or competitions.
+* Network with other data scientists and professionals in the field.
+
+By following these tips, you can increase your chances of success in becoming a data scientist.","Hello! I'm happy to help you explore your options for becoming a data scientist through our Master of Science in Computer Science (MSCS) program at UMKC. Here's some helpful information based on your query:
+
+MSCS Degree Program: The MSCS program at UMKC is open to both full-time and part-time students and admits both domestic and international students. The program offers two academic options: Thesis and Non-Thesis (Course) options.
+Emphasis Areas: The MSCS program has four Emphasis Areas: Software Engineering & Systems, Data Science, Networking & Telecommunications, and Cybersecurity. You can choose an emphasis area that aligns with your interests and career goals.
+Coursework: The MSCS program requires 30 credit hours of coursework, which includes core and elective courses. You can view the course catalog to see the list of courses offered in the program.
+BS/MS Option: UMKC offers a BS/MS option for students who want to complete both a BS in CS and a MS in CS in five years. This option allows you to complete both degrees simultaneously, which can be a great way to fast-track your career in computer science.
+Minor in Computer Science: If you're interested in pursuing a minor in Computer Science, UMKC offers a minor program that can be completed alongside your MSCS degree. To answer your question directly, if you want to become a data scientist by pursuing a Master's degree in Computer Science at UMKC, here are the steps you can take:
+Apply to the MSCS program at UMKC: You can submit your application through the University's website. Make sure to check the application deadlines and requirements before submitting your application.
+Choose an Emphasis Area: Select an Emphasis Area that aligns with your career goals. Data Science is one of the popular Emphasis Areas that can help you develop expertise in data analysis, machine learning, and data visualization.
+Complete Coursework: The MSCS program requires 30 credit hours of coursework, which includes both core and elective courses. You can choose courses that align with your Emphasis Area and interests.
+Complete the MS Degree: Once you've completed your coursework, you'll need to complete a thesis or non-thesis project to graduate with your MS degree in Computer Science. By following these steps, you can gain the skills and knowledge needed to become a data scientist through UMKC's MSCS program. Good luck with your academic journey! Would you like me to answer any other questions you may have?"
+Number of credits required to complete undergraduate in computer science in UMKC?,"The University of Missouri-Kansas City (UMKC) requires  **120 undergraduate credit hours** to complete a Bachelor of Science in Computer Science ([https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/bs-ms-computer-science/](https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/bs-ms-computer-science/)).
+
+This information can be found on the UMKC website under the program description for the Bachelor of Science in Computer Science: ""[https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/bs-ms-computer-science/](https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/bs-ms-computer-science/)"". ","Hello! Thank you for reaching out to me. To answer your question, the number of credits required to complete an undergraduate degree in computer science at UMKC is 120 credits. This includes 30 credits from UMKC Essentials, 24 credits of transferable college credit, and 66 credits of computer science courses. Additionally, students must maintain a UMKC cumulative GPA of 3.00 or higher and complete the recommended curriculum for the program. I hope this helps! Let me know if you have any other questions."
+Prerequisites for Data Science Capstone course in Masters in computer science at UMKC,"The specific prerequisites for the Data Science Capstone course (COMP-SCI 5588) in the Master of Science in Computer Science (MS CS) with a Data Science emphasis at UMKC aren't explicitly mentioned on the general program description webpage. 
+
+However, based on the nature of the Capstone course and its placement within the program curriculum, here are some likely prerequisites:
+
+* **Core Data Science Courses:**  You've likely completed the core data science courses offered in the program, which would likely include:
+    * **COMP-SCI 5530: Principles of Data Science** (introduces fundamental data science concepts)
+    * **COMP-SCI 5540: Principles of Big Data Management** (covers big data storage, processing, and analysis)
+    * **COMP-SCI 5565: Introduction to Statistical Learning** (provides a foundation in statistical learning methods)
+    * **COMP-SCI 5567: Deep Learning** (covers concepts and techniques in deep learning)
+
+* **Programming Skills:**  Proficiency in programming languages commonly used in data science is likely expected. This might include Python or R. 
+
+**Here's how to confirm the prerequisites:**
+
+*  **UMKC Course Catalog:**  A more detailed course description for COMP-SCI 5588 might be available in the UMKC course catalog. Look for a section titled ""Prerequisites"" or ""Corequisites"" which will explicitly list the required courses before enrolling in the Capstone. You can find the course catalog here: [https://catalog.umkc.edu/](https://catalog.umkc.edu/)
+* **Contact the CS Department:** If the course catalog description doesn't mention prerequisites, contacting the Computer Science department at UMKC is a good option. They can provide the most up-to-date information on course requirements. You can find the department contact information on the UMKC website.
+","Thank you for reaching out! I'd be happy to help you with your inquiry about the prerequisites for the Data Science Capstone course in the Masters in Computer Science program at the University of Missouri-Kansas City (UMKC). To take the Data Science Capstone course (COMP-SCI 5588), you must have completed the following prerequisites:
+
+COMP-SCI 5530: Principles of Data Science
+COMP-SCI 5540: Principles of Big Data Management
+COMP-SCI 5565: Introduction to Statistical Learning
+COMP-SCI 5567: Deep Learning
+In addition to these prerequisites, you must also meet the following requirements:
+
+Have a cumulative GPA of at least 3.0 on a 4.0 scale
+Have an undergraduate degree in Computer Science or Information Technology
+Be admitted to the Masters in Computer Science program at UMKC
+If you have any questions or concerns about these prerequisites or the admission process, please feel free to ask! I'm here to help."
+List of courses to pursue in UMKC to become construction engineer,"The University of Missouri-Kansas City (UMKC) offers a Bachelor of Science in Civil Engineering program that prepares students for a career in construction engineering. The program curriculum includes a  broad range of courses in civil engineering fundamentals, as well as specialized courses in construction engineering.
+
+Here's a list of courses you should consider to become a construction engineer by pursuing a Bachelor of Science in Civil Engineering at UMKC:
+
+**General Engineering Courses**
+
+*  **Calculus I, II, and III**
+*  **Differential Equations**
+*  **Linear Algebra**
+*  **Statics**
+*  **Mechanics of Materials**
+*  **Fluid Mechanics**
+*  **Structural Analysis**
+*  **Geotechnical Engineering**
+*  **Transportation Engineering**
+*  **Water Resources Engineering**
+*  **Environmental Engineering**
+
+**Construction Engineering Courses**
+
+*  **Construction Methods and Equipment**
+*  **Construction Estimating and Scheduling**
+*  **Construction Contracts and Specifications**
+*  **Construction Project Management**
+*  **Computer-Aided Design (CAD) for Construction**
+
+**Additional Considerations**
+
+*  **Electives:** In addition to the required courses, you may also want to consider taking elective courses in areas such as business, construction law, and sustainability.
+*  **Internships:**  Internships can provide valuable experience in the construction industry and help you develop the skills you need to be successful in your career.
+
+By taking these courses and gaining experience through internships, you will be well on your way to becoming a construction engineer.","Hello! I'm happy to help you explore your options for courses at UMKC to become a construction engineer. Based on your interest in Civil Engineering, here are some courses that may be of interest to you:
+
+CIV-ENGR 111 - First Year Cornerstone: This course provides an overview of the diverse career opportunities available to civil engineers, with a focus on developing fundamental skills, knowledge, and resources necessary for identifying the most appropriate career path(s).
+CIV-ENGR 210 - Structural Analysis: This course covers the fundamental principles of structural analysis, including linear and nonlinear analysis, stress and strain, and structural elements such as beams, columns, and frames.
+CIV-ENGR 310 - Geotechnical Engineering: This course covers the fundamental principles of geotechnical engineering, including soil properties, site investigation, ground improvement, and foundation design.
+CIV-ENGR 315 - Construction Management: This course provides an overview of the construction management process, including planning, scheduling, budgeting, and project control.
+CIV-ENGR 410 - Water Resources Engineering: This course covers the fundamental principles of water resources engineering, including hydrology, hydraulics, and water supply systems.
+CIV-ENGR 415 - Transportation Engineering: This course provides an overview of transportation engineering, including traffic flow, capacity, safety, and transportation planning.
+CIV-ENGR 420 - Environmental Engineering: This course covers the fundamental principles of environmental engineering, including air and water pollution control, waste management, and environmental impact assessment.
+CIV-ENGR 430 - Structural Mechanics: This course covers the fundamental principles of structural mechanics, including stress, strain, and structural analysis.
+CIV-ENGR 440 - Materials Science: This course covers the fundamental principles of materials science, including materials properties, processing, and failure.
+CIV-ENGR 450 - Construction Methods and Materials: This course provides an overview of construction methods and materials, including building design, construction techniques, and materials selection. These courses are just a few examples of the many courses available at UMKC for those interested in pursuing a career in construction engineering. It's important to note that some of these courses may have program-specific enrollment restrictions, so be sure to check the Pathway for specific course details. If you have any further questions or would like additional information, please feel free to ask!"
+Can I pursue courses from Bloch school if I am a Computer Science student in UMKC?,"Yes, you likely can pursue courses from the Bloch School of Business and Management at UMKC even if you are a Computer Science student. Here's why:
+
+* **UMKC Policy:** Most universities allow students to enroll in courses offered by other schools or departments within the same university, as long as they meet the course prerequisites.
+
+* **Bloch School Course Offerings:** The Bloch School might offer courses relevant to computer science students, such as:
+    * Business Analytics
+    * Project Management
+    * Technology Innovation and Management
+
+* **UMKC Registration:**  The UMKC registration system should allow you to search and enroll in courses offered by the Bloch School, provided you meet the prerequisites. 
+
+Here are some steps to confirm and proceed:
+
+1. **Check Course Descriptions:**  Look for course descriptions in the Bloch School course catalog or department website. See if any courses  align with your interests and complement your computer science studies.
+
+2. **Review Prerequisites:** Make sure you meet the prerequisites listed for any Bloch School course you'd like to take. These might include specific math or business foundation courses.
+
+3. **Registration Process:**  During registration,  the UMKC system should allow you to search and enroll in courses from the Bloch School if there are no restrictions.
+
+4. **Contacting an Advisor:**  If you're unsure about specific courses or have questions about prerequisites or restrictions, it's best to contact your computer science advisor or the Bloch School advising office. They can provide the most up-to-date information and guidance.
+","Of course! As an international study abroad Bloch School student, you have the opportunity to take courses from the Bloch School, regardless of your field of study at UMKC. The Bloch School offers a wide range of graduate programs, including graduate certificates in areas such as business analytics, commercial real estate, health leadership, nonprofit management and innovation, technology innovation and management, and more. If you are interested in taking courses from the Bloch School, you should contact your academic advisor or the UMKC Study Abroad and Global Engagement Office to discuss your options and create a plan that meets your academic goals. They can provide you with more information on how to apply and register for courses, as well as any relevant deadlines or requirements. Remember, studying abroad can be a great way to broaden your horizons, gain new experiences, and expand your professional network. Good luck!"
+What are the recommended courses for aspiring data scientists pursuing a Master's in Computer Science at UMKC?,"While UMKC doesn't offer a dedicated Master's in Data Science program, you can definitely tailor your Master's in Computer Science (MCS) towards a data science career path. Here are some recommended courses to consider:
+
+**Core Data Science Courses:**
+
+* **Machine Learning:** This course provides a foundation in algorithms and techniques used for building predictive models from data. Look for courses like ""Machine Learning"" or ""Statistical Learning"".
+* **Data Mining:** This course delves into extracting knowledge and insights from large datasets. Look for courses like ""Data Mining"" or ""Knowledge Discovery in Databases"".
+* **Statistics:** A strong foundation in statistical analysis is crucial for data science. Look for courses like ""Statistics and Probability"", ""Regression Analysis"", and ""Time Series Analysis"".
+* **Database Management Systems:** Understanding how to store, manage, and query data efficiently is essential. Look for courses like ""Database Management Systems"" or ""SQL Programming"".
+
+**Additional Specialized Courses:**
+
+* **Big Data Processing:** This course covers techniques for handling large and complex datasets. Look for courses like ""Big Data Processing"" or ""Cloud Computing for Data Science"".
+* **Natural Language Processing (NLP):** This course focuses on processing and analyzing textual data. Look for courses like ""Natural Language Processing"" or ""Text Mining"".
+* **Computer Vision:** This course explores techniques for analyzing and extracting information from images and videos. Look for courses like ""Computer Vision"" or ""Image Processing"".
+
+**Beyond Coursework:**
+
+* **Research Opportunities:** Look for opportunities to participate in research projects with faculty focused on data science or related fields.
+* **Internships:** Consider internships with companies that utilize data science heavily. This will provide practical experience and strengthen your resume.
+* **Kaggle Competitions:** Participating in data science competitions on platforms like Kaggle can be a great way to apply your skills and learn from others.
+
+**Resources:**
+
+* **UMKC Master's in Computer Science:** [https://www.umkc.edu/commencement/](https://www.umkc.edu/commencement/)
+* **UMKC Computer Science Department:** [https://sse.umkc.edu/about-us/computer-science-and-information-technologydirectory.html](https://sse.umkc.edu/about-us/computer-science-and-information-technologydirectory.html)
+
+Remember, this is just a general recommendation. It's best to consult with the UMKC Computer Science department's academic advisor to create a personalized course plan that aligns with your specific interests and career goals within data science.
+",What are the recommended courses for aspiring data scientists pursuing a Master's in Computer Science at UMKC?
+How many credits are typically required to complete an undergraduate degree in Computer Science at UMKC?,"A Bachelor's degree in Computer Science typically requires around 120 credits at UMKC. This information can be found on the UMKC website [here](https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/bs-ms-computer-science/).
+","Hello! I'm happy to help you with your question. To answer your question, the typical number of credits required to complete an undergraduate degree in Computer Science at UMKC is 120 credit hours. This includes 30 credit hours of UMKC coursework prior to admission to the BS/MS program, as well as 90 credit hours of upper-division coursework after admission to the program. However, please note that this may vary depending on your individual academic plan and any transfer credits you may have. Would you like more information on this or any other aspect of the Computer Science program at UMKC?"
+What are the prerequisites for enrolling in the Data Science Capstone course within the Master's in Computer Science program at UMKC?,"While the UMKC website doesn't explicitly state the prerequisites for the Data Science Capstone course (COMP-SCI 5588) within the Master's in Computer Science program, we can glean some insights from the available information:
+
+* **Master of Science: Data Science Analytics:** This program, heavily focused on data science, lists COMP-SCI 5588 as part of its curriculum. It requires students to have completed a Bachelor's in Computer Science or Information Technology, suggesting that these fields provide a strong foundation for the capstone course.
+* **COMP-SCI 5588 Course Description:** The course description itself doesn't mention specific prerequisites. However, its title ""Data Science Capstone"" implies that it likely builds upon knowledge gained in previous data science courses.
+
+Therefore, it's safe to assume that the following would be recommended prerequisites for the Data Science Capstone course:
+
+* **Prior coursework in Data Science:** Look for courses like ""Principles of Data Science"" (COMP-SCI 5530) or ""Introduction to Statistical Learning"" (COMP-SCI 5566) within the Master's in Computer Science program.
+* **Strong foundation in Computer Science:** A Bachelor's degree in Computer Science or a related field would provide the necessary programming and computational thinking skills.
+
+Here are some resources to confirm the prerequisites:
+
+* **Master of Science: Data Science Analytics:** [https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/master-of-science-data-science-analytics/](https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/master-of-science-data-science-analytics/)
+* **Computer Science (COMP-SCI) Course Descriptions:** [https://catalog.umkc.edu/course-offerings/graduate/comp-sci/](https://catalog.umkc.edu/course-offerings/graduate/comp-sci/)
+
+It's always recommended to consult with the UMKC Computer Science department or the course instructor directly to confirm the exact prerequisites before enrolling. 
+","Hello! I'm happy to help you with your question. The prerequisites for enrolling in the Data Science Capstone course within the Master's in Computer Science program at UMKC are as follows:
+
+Students must have completed all core requirements for the Master's in Computer Science program.
+Students must have completed COMP-SCI 5565 Introduction to Statistical Learning and COMP-SCI 5567 Deep Learning before enrolling in the Data Science Capstone course.
+Students must have a minimum cumulative GPA of 3.0 in all graduate coursework. If you have any other questions or concerns, please feel free to ask!"
+Can you provide a list of courses offered at UMKC that are relevant for individuals aspiring to become construction engineers?,"While UMKC doesn't offer a dedicated Construction Engineering program, the Civil Engineering program provides a strong foundation for individuals aspiring to become construction engineers. Here are some relevant courses offered at UMKC:
+
+**Undergraduate Courses:**
+
+* **CIV-ENGR 111 First Year Cornerstone:** Introduces students to the field of civil engineering and its various specializations, including construction.
+* **CIV-ENGR 275 Engineering Statics:** Provides the fundamental principles of mechanics for analyzing forces and their effects on structures.
+* **CIV-ENGR 276 Strength of Materials:** Studies the behavior of materials under stress and strain, crucial for understanding structural design.
+* **CIV-ENGR 321 Structural Analysis:** Analyzes the behavior of structural elements under various loads.
+* **CIV-ENGR 323 Structural Steel Design:** Focuses on the design of steel structures used in buildings and bridges.
+* **CIV-ENGR 335 Soil Mechanics:** Studies the behavior of soil and its application in foundation design.
+* **CIV-ENGR 351 Fluid Mechanics:**  Provides the fundamental principles of fluid flow, relevant for water and wastewater systems in construction.
+
+**Graduate Courses:**
+
+* **Engineering and Construction Project Management Certificate:** This specialized certificate program delves deeper into project management specific to construction projects, including:
+    * **CIV-ENGR 5568 Construction Planning and Scheduling:** Focuses on planning and scheduling construction activities efficiently.
+    * **CIV-ENGR 5504 Project Management of Integrated Design and Construction:**  Explores project management practices for coordinating design and construction phases.
+    * **CIV-ENGR 5506 Construction Project Risk Management:**  Analyzes and mitigates risks associated with construction projects.
+
+**Additional Resources:**
+
+* **Civil Engineering Undergraduate Programs:** [https://sse.umkc.edu/academics/programs/civil-engineering.html](https://sse.umkc.edu/academics/programs/civil-engineering.html)
+* **Civil Engineering (CIV-ENGR) Course Descriptions:** [https://catalog.umkc.edu/course-offerings/undergraduate/civ-engr/](https://catalog.umkc.edu/course-offerings/undergraduate/civ-engr/)
+
+It's important to note that licensure as a Professional Engineer (PE) may be required for certain construction engineering roles. While a Bachelor's in Civil Engineering provides a strong foundation, additional experience and passing the PE exam are typically necessary for licensure.
+","Of course! I'd be happy to help you find the courses relevant for your aspiration to become a construction engineer at UMKC. Based on your query, I have identified the following courses that may be relevant for your academic pursuits:
+
+CIV-ENGR 111 - First Year Cornerstone: This course provides an exploration of diverse career opportunities in civil engineering, with a focus on providing students with fundamental skills, knowledge, and resources to identify appropriate career paths.
+CIV-ENGR 211 - Engineering Mechanics I: This course covers the fundamental principles of engineering mechanics, including statics and dynamics, with an emphasis on problem-solving and analysis.
+CIV-ENGR 212 - Engineering Materials: This course introduces students to the properties and applications of engineering materials, including metals, concrete, and composites.
+CIV-ENGR 213 - Structural Analysis: This course covers the fundamental principles of structural analysis, including loadings, stability, and design methods for buildings and other structures.
+CIV-ENGR 214 - Geotechnical Engineering: This course focuses on the behavior of soils and foundations, including site investigation, soil properties, and design methods for shallow and deep foundations.
+CIV-ENGR 311 - Transportation Engineering: This course covers the principles of transportation engineering, including traffic flow, capacity, safety, and design of highways, streets, and interchanges.
+CIV-ENGR 312 - Water Resources Engineering: This course introduces students to the principles of water resources engineering, including hydrology, water supply, and wastewater treatment.
+CIV-ENGR 313 - Construction Management: This course covers the principles of construction management, including project management, construction methods, and quality control.
+CIV-ENGR 314 - Building Information Modeling (BIM): This course introduces students to the principles of building information modeling, including 3D modeling, data management, and collaboration tools for construction projects. These courses are offered through UMKC's Civil Engineering Program, which has faculty members who are active in research with funding from numerous local and national industries and government agencies. The program offers specialty areas such as Water and Environmental Engineering, Structural Engineering, Geotechnical and Materials Engineering, and Construction Management. For more information on these courses and the Civil Engineering program at UMKC, please visit their website at http://sse.umkc.edu. I hope this helps you in your academic pursuits! If you have any further questions or would like more information, please don't hesitate to ask."
+"Is it possible for Computer Science students at UMKC to take courses offered by the Bloch School? If so, what are the available options?","Yes, Computer Science students at UMKC can take courses offered by the Bloch School. Here's what you need to know:
+
+* **Openness:** UMKC generally encourages cross-disciplinary studies, allowing students to explore courses outside their major.
+* **Prerequisites:**  While most Bloch School courses are open to all UMKC students, some may have specific prerequisites like introductory business or economics courses. 
+* **Course Selection:**  The Bloch School offers various courses relevant to computer science students, including:
+    * **Business Analytics:** Courses focusing on data analysis and visualization, which complement computer science skills.
+    * **Information Systems (IS):** Courses exploring the design, implementation, and management of information systems, valuable for understanding technology in business contexts.
+    * **Entrepreneurship:** Courses providing insights into starting and managing technology-driven businesses.
+
+Here are some resources to explore further:
+
+* **Bloch School Course Catalog:** [invalid URL removed]
+* **UMKC Academic Advising:** It's recommended to consult with your Computer Science advisor to discuss specific course options that align with your interests and career goals. They can help you navigate prerequisites and ensure the chosen courses fit within your degree requirements.
+
+Remember, while there might not be restrictions on enrolling, some courses may require foundational knowledge in business or economics. It's always best to check the course descriptions and prerequisites carefully before registering.
+","Hello! I'm here to help you with your question. Yes, it is possible for Computer Science students at UMKC to take courses offered by the Bloch School. In fact, there are several options available for Computer Science students who want to explore courses outside of their own department. Firstly, Bloch School offers a Graduate Certificate in Business Analytics that is specifically designed for Computer Science students who want to gain practical experience in data analysis and business intelligence. This certificate program consists of 12 credit hours and covers topics such as data mining, predictive analytics, and business intelligence. Secondly, Bloch School also offers a range of elective courses that Computer Science students can take to broaden their knowledge and skills. These courses cover topics such as entrepreneurship, innovation management, and leadership, among others. Finally, Bloch School has a unique BS/MS program that allows Computer Science students to complete both their undergraduate and master's degrees in a shorter period of time. This program is designed for students who want to accelerate their academic progress and gain a competitive edge in the job market. In summary, Computer Science students at UMKC have several options available to them when it comes to taking courses offered by the Bloch School. These options include graduate certificate programs, elective courses, and the BS/MS program. I hope this information helps you make an informed decision!"
+What resources or support does UMKC offer for students interested in pursuing interdisciplinary studies between Computer Science and Business Administration?,"UMKC offers several resources and support options for students interested in pursuing interdisciplinary studies between Computer Science and Business Administration:
+
+**Academic Programs:**
+
+* **Interdisciplinary Ph.D. Program:** This program allows students to design a personalized doctoral program combining coursework and research in both Computer Science and Business Administration.
+* **BS-MS in Computer Science:** This accelerated program allows students to earn both a Bachelor's and Master's degree in Computer Science within five years. This flexibility could potentially allow for incorporating relevant business administration courses as electives.
+* **Business Administration Minors:** UMKC offers various minors in Business Administration, such as Business Analytics, Information Systems, and Entrepreneurship, which can complement a Computer Science major.
+* **Undergraduate Certificate: Technology Innovation and Management:** This certificate program provides a foundation in business concepts specifically related to technology and innovation.
+
+**Academic Support:**
+
+* **Academic Advisors:** Both the Computer Science and Bloch School departments have dedicated academic advisors who can guide students on course selection and creating a personalized academic plan that incorporates both disciplines.
+* **Interdisciplinary Studies Office:** This office provides resources and support for students pursuing interdisciplinary studies, including guidance on navigating different academic departments and fulfilling program requirements.
+
+**Additional Resources:**
+
+* **UMKC Career Services:** This office can help students explore career paths that leverage both computer science and business administration skills, such as data analysis, business intelligence, and technology management.
+* **Student Organizations:** UMKC has various student organizations related to both Computer Science and Business, which can provide opportunities for networking and collaboration with like-minded individuals.
+
+Here are some helpful links:
+
+* **Interdisciplinary Ph.D. Program:** [https://catalog.umkc.edu/colleges-schools/graduate-studies/interdisciplinary-phd-program/](https://catalog.umkc.edu/colleges-schools/graduate-studies/interdisciplinary-phd-program/)
+* **Business Administration Minors:** [invalid URL removed]
+* **Undergraduate Certificate: Technology Innovation and Management:** [invalid URL removed]
+* **UMKC Career Services:** [https://career.umkc.edu/](https://career.umkc.edu/)
+
+Remember, actively seeking guidance from academic advisors and exploring the available resources can greatly benefit you in pursuing your interdisciplinary interests between Computer Science and Business Administration at UMKC.
+","Hello! I'm happy to help you find the resources you need. UMKC offers several resources and support for students interested in pursuing interdisciplinary studies between Computer Science and Business Administration. Here are some options:
+
+Roo Advising: Roo Advising provides academic advising for undergraduate students, including those interested in interdisciplinary studies. They can help you develop a plan that fits your academic goals and provide guidance on course selection, degree requirements, and more. You can reach them at (816) 235-1148 or email them at rooadvising@umkc.edu.
+Academic Advising Center: The Academic Advising Center offers general advising for all undergraduate students at UMKC. They can help you explore your academic options, develop a plan that fits your goals, and connect you with faculty mentors and support services on campus. You can reach them at (816) 235-1148 or email them at advising@umkc.edu.
+Henry W. Bloch School of Management: The Bloch School offers undergraduate programs in business, including a Bachelor of Business Administration in Management with a concentration in Information Systems. They also offer minors in Entrepreneurship and Technology Management. You can reach them at (816) 235-1148 or visit their website at bloch.umkc.edu.
+Department of Computer Science: The Department of Computer Science offers undergraduate programs in Computer Science, including a Bachelor of Science in Computer Science. They also offer minors in Computer Science and Data Science. You can reach them at (816) 235-1148 or visit their website at cs.umkc.edu.
+Interdisciplinary Studies: UMKC offers interdisciplinary studies programs that allow students to combine coursework from two or more departments or programs to create a customized major. You can reach the Interdisciplinary Studies office at (816) 235-1148 or visit their website at umkc.edu/interdisciplinarystudies. I hope this helps! Let me know if you have any other questions."
+Are there any specialized tracks or concentrations within the Master's in Computer Science program at UMKC that focus on data analytics or machine learning?,"While the Master of Science in Computer Science (MSCS) program at UMKC doesn't offer dedicated tracks or concentrations solely focused on data analytics or machine learning, it provides strong pathways for students interested in these fields:
+
+1. **Master of Science: Data Science Analytics:** UMKC offers a distinct Master's program specifically focused on Data Science Analytics. This program delves deeper into relevant areas like:
+    * Principles of Data Science
+    * Big Data Management
+    * Statistical Learning
+    * Deep Learning
+    * Data Science Capstone
+
+2. **MSCS with Data Science and Machine Learning Focus:** 
+    * The core MSCS program offers several courses directly related to data analytics and machine learning, including:
+        * COMP-SCI 5530: Principles of Data Science
+        * COMP-SCI 5565: Introduction to Statistical Learning
+        * COMP-SCI 5567: Deep Learning
+        * COMP-SCI 5588: Data Science Capstone
+    * You can tailor your elective choices within the MSCS program to further specialize in these areas. Relevant electives include:
+        * COMP-SCI 5542: Big Data Analytics and Applications
+        * COMP-SCI 5582: Computer Vision
+        * MATH 5545: Mathematical Methods in Data Science
+
+Therefore, while there aren't specific tracks within the MSCS program, it offers significant flexibility to build a curriculum heavily focused on data analytics and machine learning through a combination of core courses and elective choices.
+
+Here are some resources for further exploration:
+
+* **Master of Science: Data Science Analytics:** [https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/master-of-science-data-science-analytics/](https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/master-of-science-data-science-analytics/)
+* **Master of Science: Computer Science:** [https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/master-of-science-computer-science/](https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/master-of-science-computer-science/)
+* **Computer Science (COMP-SCI) Course Descriptions:** [https://catalog.umkc.edu/course-offerings/graduate/comp-sci/](https://catalog.umkc.edu/course-offerings/graduate/comp-sci/)
+
+Remember, consulting with the UMKC Computer Science department's academic advisor is highly recommended. They can guide you in crafting a personalized course plan within the MSCS program that aligns with your specific interests and career goals in data analytics or machine learning.
+","Hello! Yes, there are several specialized tracks or concentrations within the Master's in Computer Science program at UMKC that focus on data analytics or machine learning. Here are some of them:
+
+Data Science Concentration: This concentration is designed for students who want to specialize in data science and analytics. Students in this concentration will take courses such as Data Structures, Data Mining, Database Systems, and Machine Learning.
+Machine Learning Concentration: This concentration is designed for students who want to specialize in machine learning and artificial intelligence. Students in this concentration will take courses such as Computer Vision, Natural Language Processing, and Neural Networks.
+Data Analytics Emphasis Area: This emphasis area is available to students in the Master's in Computer Science program who want to focus on data analytics. Students in this emphasis area will take courses such as Data Mining, Data Visualization, and Predictive Analytics.
+Cybersecurity Concentration: This concentration is designed for students who want to specialize in cybersecurity. Students in this concentration will take courses such as Network Security, Cryptography, and Security Architecture. Each concentration or emphasis area offers a unique set of courses that allow students to tailor their degree program to their interests and career goals. Additionally, many of these courses can be combined with the Ph.D. program in Computer Science at UMKC to create a customized degree plan that meets the student's research interests and career objectives."
+What internship or practical experience opportunities are available for Computer Science students at UMKC to gain industry experience in construction engineering?,"While UMKC doesn't offer a dedicated Construction Engineering program, Computer Science students can still gain valuable industry experience in this field through internships and practical opportunities. Here are some approaches:
+
+**Leveraging UMKC Resources:**
+
+* **UMKC Career Services:** This office provides comprehensive support for internship and career exploration. They offer resources like:
+    * **Handshake:** An online platform listing internship opportunities from various companies, including those in construction-related fields.
+    * **Career Fairs:** UMKC hosts career fairs throughout the year, where construction companies might be present.
+    * **Resume and Interviewing Skills Workshops:** These workshops can help you present yourself effectively to potential employers.
+* **Civil Engineering Department:** While their focus isn't directly on computer science, the Civil Engineering department at UMKC might have connections with construction companies seeking interns with programming or data analysis skills. They might be able to provide guidance or connect you with relevant internship opportunities.
+
+**Targeting Relevant Companies:**
+
+* **Construction Management Firms:** Many construction management firms utilize technology extensively for project planning, scheduling, and data analysis. Look for internship opportunities within these companies that specifically mention tasks involving software development, data analysis, or BIM (Building Information Modeling) tools.
+* **Architecture Firms:**  Modern architectural firms heavily rely on computer-aided design (CAD) software and other technology tools. Internships within these firms could involve developing custom software solutions or integrating technology into the design process.
+* **Construction Software Companies:** Companies developing construction-specific software might offer internships related to software development, user interface design, or data analysis tasks.
+
+**Additional Tips:**
+
+* **Highlight your skills:** Emphasize your computer science skills and any relevant coursework in areas like data analysis, machine learning, or software development when applying for internships.
+* **Network actively:** Attend industry events or connect with professionals in the construction field through online platforms like LinkedIn. This can open doors to internship opportunities.
+* **Consider research opportunities:**  Research projects within the Civil Engineering department or with individual faculty members might involve aspects of data analysis or software development related to construction engineering.
+
+Remember, even though there might not be a direct path from Computer Science to construction engineering internships, your programming and data analysis skills are highly valuable in the construction industry that increasingly relies on technology. By utilizing the resources provided by UMKC and targeting relevant companies, you can gain valuable practical experience at the intersection of computer science and construction engineering.
+","Hello! I'm happy to help you find answers about UMKC's Computer Science program. In terms of internship or practical experience opportunities for Computer Science students in construction engineering, UMKC has several connections with local engineering and construction firms that offer internships, co-op positions, or other hands-on learning experiences. These partnerships allow students to gain valuable industry experience while still pursuing their degree. Some examples of these partnerships include:
+
+Bechtel: Bechtel is one of the premier engineering and construction firms in the country, with a strong presence in Kansas City. UMKC Computer Science students can apply for internships or co-op positions with Bechtel, which provides valuable experience in construction engineering and project management.
+Black & Veatch: Black & Veatch is another leading engineering and construction firm headquartered in Kansas City. UMKC Computer Science students can participate in internships or co-op positions with Black & Veatch, which offers diverse opportunities in construction engineering, software development, and data analytics.
+Burns & McDonnell: Burns & McDonnell is a leading engineering and construction firm with extensive experience in the Kansas City area. UMKC Computer Science students can apply for internships or co-op positions with Burns & McDonnell, which provides hands-on experience in construction engineering, software development, and project management. These partnerships offer UMKC Computer Science students valuable opportunities to gain practical experience in construction engineering while still pursuing their degree. Additionally, many of these firms often hire UMKC graduates as full-time employees after they complete their internships or co-op positions. To learn more about these opportunities or to apply, I recommend visiting UMKC's Career Center website or reaching out directly to the engineering and construction firms I mentioned. Good luck in your search!"
+Can you provide information on any joint degree programs offered at UMKC that combine Computer Science with other fields such as Engineering or Business?,"While UMKC doesn't offer explicit joint degree programs directly combining Computer Science with Engineering or Business at the undergraduate level, there are a few options to achieve a similar outcome:
+
+**Dual Degree Programs:**
+
+* **Master's Level Dual Degrees:** UMKC offers dual degree programs at the Master's level that allow students to pursue two Master's degrees simultaneously. This could be a path to combine a Master of Science in Computer Science (MSCS) with a Master's degree in another field like Engineering or Business Administration. However, these programs typically require fulfilling the full credit requirements for each individual Master's program.
+
+**Combined Degree Options:**
+
+* **BS-MS in Computer Science:** UMKC offers an accelerated BS-MS program in Computer Science, allowing students to earn both a Bachelor's and Master's degree within five years. This program provides flexibility to potentially incorporate relevant coursework from other fields like Engineering or Business as electives within the curriculum.
+
+**Dual Degree Partnerships:**
+
+* **Liberal Arts + Engineering/Computer Science:** UMKC's School of Computing and Engineering collaborates with other institutions on dual-degree programs. Students complete their undergraduate degree in a liberal arts major at their initial institution, followed by two years at UMKC to earn a professional degree in Computer Science or a related field. This pathway allows for a broader liberal arts foundation alongside a professional degree in Computer Science.
+
+Here are some resources for further exploration:
+
+* **Dual Degree Programs:** [https://catalog.umkc.edu/general-graduate-academic-regulations-information/dual-degree-programs/](https://catalog.umkc.edu/general-graduate-academic-regulations-information/dual-degree-programs/)
+* **Combined Degree Options (Multiple Major & Dual Degrees):** [https://catalog.umkc.edu/specialized-academic-opportunities/combined_degree/](https://catalog.umkc.edu/specialized-academic-opportunities/combined_degree/)
+* **BS-MS in Computer Science:** [https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/bs-ms-computer-science/](https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/bs-ms-computer-science/)
+* **Dual Degree Programs - Catalog Navigator:** [https://www.umkc.edu/catalog/default/Page55891.html](https://www.umkc.edu/catalog/default/Page55891.html)
+
+Remember, even though there might not be a single program explicitly combining Computer Science with Engineering or Business at the undergraduate level, the available dual degree options and combined degree structures offer flexibility to achieve a similar outcome. Consulting with academic advisors from both the Computer Science department and the desired field (Engineering or Business) is highly recommended to explore the most suitable pathway for your specific interests and career goals.
+","Of course! UMKC offers several joint degree programs that combine Computer Science with other fields such as Engineering or Business. Here are some of the options:
+
+Bachelor of Science in Computer Science/Master of Science in Engineering (BSCS/MSE): This program allows students to complete both an undergraduate degree in Computer Science and a master's degree in Engineering within five years. The program is designed for students who want to pursue careers in engineering with a strong technical background in computer science.
+Bachelor of Arts in Computer Science/Master of Business Administration (BACS/MBA): This program combines the study of computer science with business management, providing students with a unique skill set that can be applied to a variety of industries. Students in this program can complete both degrees within five years.
+Master of Science in Computer Science/Master of Engineering (MSCS/MEng): This program allows students to pursue advanced study in computer science while also gaining technical expertise in engineering. The program is designed for students who want to pursue careers in research or development in industry.
+Master of Science in Computer Science/Master of Science in Data Science (MSCS/MSDS): This program combines advanced study in computer science with specialized coursework in data science. The program is designed for students who want to pursue careers in data analysis, data mining, or data visualization. All of these joint degree programs are open to both domestic and international students, and students can apply to these programs at the time of admission or during their first semester at UMKC. It's important to note that each program has its own set of admission requirements and deadlines, so it's best to check the UMKC website or contact the SS&C Student Services Center for more information."
+Are there any research opportunities or projects related to data science or construction engineering available for students in the Computer Science program at UMKC?,"Yes, there are opportunities for UMKC Computer Science students to participate in research projects that intersect with data science and construction engineering:
+
+**Data Science Opportunities:**
+
+* **Master of Science: Data Science Analytics:** This program offers research opportunities within its curriculum, potentially involving projects related to data analysis in various industries, including construction.
+* **Faculty Research:** Several faculty members within the School of Computing and Engineering conduct research in areas relevant to data science, such as:
+    * Machine learning
+    * Data mining
+    * Big data analytics
+    * Artificial intelligence
+    * You can explore faculty research areas on the UMKC website: [https://sse.umkc.edu/research/faculty-research.html](https://sse.umkc.edu/research/faculty-research.html) and reach out to professors whose research aligns with your interests to discuss potential involvement.
+
+**Construction Engineering Opportunities:**
+
+* **Collaboration with the Civil Engineering Department:** While the Civil Engineering department doesn't have a dedicated focus on data science, some of their research projects might involve the use of data analysis techniques or software tools that could benefit from computer science expertise. You can connect with Civil Engineering faculty to explore potential research collaborations that leverage your data science skills in construction-related projects.
+* **Interdisciplinary Research:** UMKC's Interdisciplinary Ph.D. program allows students to design a personalized research path combining computer science with other fields like engineering. This could be a way to focus your research on the application of data science in construction engineering.
+
+**Additional Tips:**
+
+* **UMKC Office of Research:** This office provides resources and support for undergraduate and graduate students seeking research opportunities. They can guide you in finding suitable research projects and connecting with faculty members.
+* **Student Research Groups:** Consider joining student research groups related to data science or construction engineering. These groups often participate in research projects that could provide valuable experience.
+
+Remember, actively seeking opportunities and expressing your interest in research at the intersection of data science and construction engineering is crucial. By connecting with faculty members in both the Computer Science and Civil Engineering departments, you can increase your chances of finding a research project that aligns with your skills and interests.
+","Hello! I'm happy to help you find research opportunities or projects related to data science or construction engineering at UMKC's Computer Science program. Yes, there are several faculty members in the Civil Engineering Program who are actively involved in research with funding from various local and national industries and government agencies. Their research interests include data science, construction engineering, and more. You can find more information about their research areas on the UMKC website under ""Faculty"" and then ""Civil Engineering."" Additionally, UMKC's Computer Science program offers several research opportunities and projects related to data science and construction engineering. For example, Professor ZhiQiang Chen's research focuses on data-driven decision-making and intelligent systems, while Professor Thiagarajan Ganesh's research interests include construction engineering and management. Professor Ceki Halmen's research areas include data mining, machine learning, and data analytics. If you're interested in exploring research opportunities or projects related to data science or construction engineering, I recommend reaching out to these faculty members or visiting their websites for more information. You can also visit the UMKC website for more details on the Computer Science program's research areas and opportunities. Remember, as a student at UMKC, you can also participate in research projects through the University's Office of Undergraduate Research or the School of Graduate Studies. These opportunities can help you gain valuable experience and build your resume. I hope this information helps! Let me know if you have any further questions."
+Are there any elective courses at UMKC that complement a Master's in Computer Science for individuals interested in specializing in cybersecurity or network security?,"Absolutely! UMKC's Master of Science in Computer Science (MSCS) program offers a flexible structure that allows students to tailor their studies towards specific areas like cybersecurity and network security through elective courses. Here are some relevant options:
+
+**Emphasis Area in Cybersecurity:**
+
+* UMKC explicitly recognizes Cybersecurity as one of the five emphasis areas within the MSCS program. Completing coursework focused on this area provides a strong foundation for a career in cybersecurity.
+
+**Relevant Elective Courses:**
+
+* **COMP-SCI 426: Network Security:** This course delves into network security concepts, threats, and mitigation techniques, providing a crucial foundation.
+* **COMP-SCI 436: Digital Forensics:** This course explores digital forensics techniques for investigating cybercrimes and collecting digital evidence.
+* **COMP-SCI 446: Distributed Computing Systems:** Understanding distributed systems is essential for securing complex network infrastructures.
+* **COMP-SCI 473: Data Compression:** Cryptography heavily relies on data compression techniques, making this course valuable.
+* **COMP-SCI 476: Blockchain Technologies:** Blockchain technology is increasingly used for secure data management in various cybersecurity applications.
+* **COMP-SCI 483: Software Security:**  Understanding software vulnerabilities and secure coding practices is paramount in cybersecurity.
+
+**Additional Considerations:**
+
+* **Independent Study and Research:** You can discuss the possibility of pursuing independent study or research projects with faculty members specializing in cybersecurity. This allows for in-depth exploration of specific topics within the field.
+* **Interdisciplinary Ph.D. Program:** If you're interested in extensive research, consider the Interdisciplinary Ph.D. program, where you can design a research path focused on cybersecurity with guidance from both Computer Science and relevant engineering departments.
+
+**Resources:**
+
+* **Master of Science: Computer Science:** [https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/master-of-science-computer-science/](https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/master-of-science-computer-science/)
+* **Computer Science (COMP-SCI) Course Descriptions:** [https://catalog.umkc.edu/course-offerings/graduate/comp-sci/](https://catalog.umkc.edu/course-offerings/graduate/comp-sci/)
+* **UMKC Office of Research:** [https://research.umkc.edu/](https://research.umkc.edu/)
+
+Remember, consulting with the Computer Science department's academic advisor is highly recommended. They can guide you in selecting the most relevant elective courses and explore potential research opportunities that align with your specific interests and career goals in cybersecurity or network security.
+","Hello! I'm here to help you find the right courses that complement your Master's in Computer Science at UMKC. Yes, there are several elective courses that can help you specialize in cybersecurity or network security. For cybersecurity, you may want to consider courses such as:
+
+CMPS 640: Computer and Network Security
+CMPS 641: Cryptography and Network Security
+CMPS 642: Cybersecurity and Privacy These courses cover various aspects of cybersecurity, including network security, cryptography, and cybersecurity best practices. For network security, you may want to consider courses such as:
+CMPS 630: Computer Networks and Communication Systems
+CMPS 631: Network Security and Privacy
+CMPS 632: Wireless Networking and Security These courses will provide you with a solid foundation in computer networks and communication systems, as well as network security principles and practices. In addition to these courses, UMKC also offers a Master of Science in Data Science and Analytics that can complement your Master's in Computer Science. The program focuses on data-driven decision-making, data analysis, and data visualization, which can be applied to various fields, including cybersecurity and network security. If you have any questions or would like more information about these courses or programs, please feel free to ask!"
+"Can you provide information on any collaborative projects or research initiatives between the Computer Science department and industry partners, particularly in the fields of data science or construction engineering?","Yes, there are collaborative projects and research initiatives between the UMKC Computer Science department and industry partners, particularly in the fields of data science and construction engineering. Here's what you can find:
+
+**Data Science:**
+
+* **UMKC's Interdisciplinary Research:** The university's Interdisciplinary Ph.D. program allows students to combine computer science with other fields like data science and collaborate with industry partners on real-world projects. This program has facilitated research collaborations with companies like Cerner and Garmin, potentially involving data analysis and machine learning applications.
+* **Faculty Research:** Several faculty members within the School of Computing and Engineering actively partner with industry partners on data science research projects. Examples include:
+    * **Professor Yusuf Sarwar Uddin:** His research on human mobility and the spread of COVID-19 involved collaboration with local health agencies, potentially utilizing data analysis techniques.
+    * **Research collaborations with local healthcare institutions:**  UMKC's School of Medicine has partnered with the Computer Science department on projects utilizing data analysis for surgical procedures and public health initiatives.
+
+**Construction Engineering:**
+
+While the Civil Engineering department doesn't have a dedicated focus on data science, some collaborative efforts with industry partners might involve data analysis:
+
+* **Partnerships with Construction Firms:**  Civil Engineering faculty might collaborate with construction companies on projects that utilize Building Information Modeling (BIM) tools and software, which heavily rely on data analysis and computer science expertise.
+* **Student Internships:** UMKC students within the Computer Science program can pursue internships with construction firms that leverage their data analysis skills for project planning, scheduling, or data-driven decision making. 
+
+**Resources for Finding Opportunities:**
+
+* **UMKC Office of Research:** This office maintains a database of ongoing research projects and can connect students with faculty members actively involved in industry collaborations.
+* **School of Computing and Engineering Research Page:** This webpage showcases faculty research areas and potential industry partnerships: [https://sse.umkc.edu/research/faculty-research.html](https://sse.umkc.edu/research/faculty-research.html)
+* **Civil Engineering Department Website:** While their focus isn't solely on data science, the Civil Engineering department website might mention ongoing research projects that could benefit from computer science expertise: [https://sse.umkc.edu/academics/programs/civil-engineering.html](https://sse.umkc.edu/academics/programs/civil-engineering.html)
+
+Remember, actively seeking information and expressing your interest in these collaborative projects is crucial. Reaching out to faculty members and the research office can open doors to exciting opportunities that combine your computer science skills with industry needs in data science and construction engineering.
+","Of course! I'd be happy to help you find the information you're looking for. The Computer Science department at UMKC has several collaborative research initiatives and projects with industry partners, particularly in the fields of data science and construction engineering. Here are some examples:
+
+Data Science and Analytics: The department has established partnerships with several industry partners to conduct research in data science and analytics. For instance, the department has collaborated with a leading healthcare provider to develop predictive models for patient outcomes, and with a prominent financial institution to analyze customer behavior using machine learning techniques.
+Construction Engineering: The department has collaborated with construction companies to develop innovative solutions for construction management, building information modeling (BIM), and infrastructure management. For example, researchers have worked with a leading construction company to develop a BIM-based decision-making tool for construction project managers, and with another company to develop a smart building management system using IoT and AI technologies.
+Cybersecurity: The department has collaborated with several industry partners to conduct research in cybersecurity, particularly in the areas of network security, cryptography, and artificial intelligence-based cybersecurity solutions. For example, researchers have worked with a leading financial institution to develop an AI-based intrusion detection system, and with another company to evaluate the security of smart city infrastructure using IoT devices.
+Health Informatics: The department has collaborated with healthcare providers and researchers to develop innovative solutions for healthcare data analysis, patient privacy and security, and personalized medicine. For example, researchers have worked with a leading healthcare provider to develop a data warehousing solution for electronic health records (EHRs), and with another provider to develop a machine learning-based system for predicting patient outcomes using EHR data.
+I hope this information helps! Let me know if you need any further assistance or have any other questions."
+"Are there any opportunities for graduate students in Computer Science at UMKC to participate in conferences, workshops, or seminars related to their field of study?","Yes, there are several opportunities for graduate students in Computer Science at UMKC to participate in conferences, workshops, and seminars related to their field of study:
+
+**Internal Opportunities:**
+
+* **Community of Scholars Research Conference:** UMKC's School of Graduate Studies hosts an annual conference where graduate students from various disciplines, including computer science, present their research findings. This provides a platform to showcase your work, gain valuable feedback, and network with fellow researchers.
+* **Research Development Workshops:** UMKC's Office of Research Development (ORD) offers various workshops throughout the year, including those specifically focused on research proposal writing, scientific communication, and grant opportunities. These workshops can equip you with the skills necessary to effectively present your research at external conferences.
+* **Faculty Research Groups:** Many faculty members within the Computer Science department have active research groups. Joining such a group allows you to participate in ongoing research projects, attend research seminars, and potentially co-author research papers presented at conferences.
+
+**External Opportunities:**
+
+* **Professional Associations:**  Joining professional associations like the Association for Computing Machinery (ACM) or the Institute of Electrical and Electronics Engineers (IEEE) provides access to conferences, workshops, and webinars in various computer science specializations.
+* **Field-Specific Conferences:** Numerous national and international conferences are dedicated to specific areas within computer science, such as data science, cybersecurity, or software engineering. Attending these conferences allows you to learn about the latest advancements, network with experts, and potentially present your own research.
+* **Travel Grants:** UMKC offers grants like the Balaji Krithikaivasan Memorial Travel Grant to support graduate students in presenting their research at conferences. This financial assistance can make attending conferences more accessible.
+
+**Additional Resources:**
+
+* **UMKC School of Graduate Studies:** [https://sgs.umkc.edu/](https://sgs.umkc.edu/)
+* **UMKC Office of Research Development:** [https://umkc.edu/ord/](https://umkc.edu/ord/)
+* **Computer Science Department Website:** [invalid URL removed]
+* **Professional Associations:**
+    * ACM: [https://www.acm.org/](https://www.acm.org/)
+    * IEEE: [https://www.ieee.org/](https://www.ieee.org/)
+
+Remember, actively seeking out opportunities and connecting with your faculty advisor are crucial. They can guide you towards conferences relevant to your research interests and provide valuable advice on preparing presentations and proposals. 
+","Hello! Yes, UMKC's School of Graduate Studies provides opportunities for graduate students in Computer Science to participate in conferences, workshops, or seminars related to their field of study. The school supports students' academic and professional development through various funding opportunities and resources. For example, the UMKC School of Graduate Studies offers fellowships, awards, and scholarships to qualified graduate students through a competitive selection process. These financial awards can help support students' participation in conferences, workshops, or seminars related to their field of study. Additionally, UMKC's Computer Science department organizes various events and activities that provide students with opportunities to engage with their peers and professionals in the field. These events may include research seminars, workshops, and conferences that can help students network, share their research, and gain insight into the latest developments in their field. To learn more about these opportunities, I recommend visiting the UMKC School of Graduate Studies website or contacting the Computer Science department directly. They can provide you with detailed information on the resources available to support your academic and professional development as a graduate student in Computer Science at UMKC."
+"What academic resources and support services are available to help Computer Science students at UMKC succeed in their studies, especially for those pursuing specialized tracks like data science or construction engineering?","UMKC offers a range of academic resources and support services to help Computer Science students succeed in their studies, particularly those pursuing specialized tracks like data science or construction engineering:
+
+**General Academic Support:**
+
+* **Academic Advising:** Both the Computer Science department and the School of Computing and Engineering offer dedicated academic advisors who can guide students on course selection, program requirements, and navigating specialized tracks like data science or construction engineering within the curriculum.
+* **Tutoring Services:** UMKC offers free tutoring services through the Academic Support and Mentoring Center. Tutors are available for various computer science courses, including those relevant to data science and construction engineering applications.
+* **Supplemental Instruction (SI):** SI sessions provide additional support for challenging courses, often focusing on group study and active learning strategies.
+* **Roo Up Seminars:** These online and in-person workshops cover various topics like study skills, time management, and test-taking strategies, helping students become more effective learners.
+* **Writing Studio:** The Writing Studio offers guidance on writing research papers, technical reports, and other academic assignments relevant to computer science projects.
+
+**Specialized Resources for Data Science and Construction Engineering Tracks:**
+
+* **Data Science Focus:**
+    * The Master of Science: Data Science Analytics program provides dedicated faculty and coursework focused on data analysis, machine learning, and other relevant areas.
+    * Faculty research opportunities within the School of Computing and Engineering might involve data science applications in various fields, including construction engineering.
+* **Construction Engineering Focus:**
+    * While the Civil Engineering department doesn't solely focus on data science, collaboration with faculty members might involve projects utilizing BIM tools and software that benefit from computer science expertise.
+    * Internships with construction companies can provide practical experience applying data analysis skills in project planning, scheduling, and data-driven decision making.
+
+**Additional Support Services:**
+
+* **UMKC Libraries:** The UMKC Libraries offer access to a vast collection of academic resources, including research databases, scholarly journals, and software tools relevant to computer science, data science, and construction engineering.
+* **Office of Research:** This office provides support for students seeking research opportunities, including connecting with faculty members involved in relevant research projects.
+* **Career Services:** UMKC's Career Services can assist students in exploring career paths in data science, construction engineering, or other computer science specializations, including resume writing, interview preparation, and job search strategies.
+
+**Remember:**
+
+* **Actively seek guidance:** Don't hesitate to reach out to your academic advisor, faculty members, and relevant support services to maximize the benefits of these resources.
+* **Explore interdisciplinary opportunities:** Explore research projects, internships, or collaborations that bridge computer science with data science or construction engineering to gain valuable experience in your specialized track.
+* **Utilize online resources:** UMKC websites and online databases offer detailed information on specific programs, courses, research opportunities, and support services available.
+
+By utilizing these resources and actively seeking support, UMKC computer science students, especially those pursuing specialized tracks like data science or construction engineering, can maximize their academic success and prepare for fulfilling careers in their chosen fields.
+","Hello! I'm glad you asked! As a Computer Science student at UMKC, you have access to a variety of academic resources and support services to help you succeed in your studies. Here are some of the resources available to you:
+
+Academic Advising: You can consult with your academic advisor to develop a plan that meets your academic goals. Your advisor can help you choose courses that align with your interests and career objectives. You can find your advisor's contact information on the Roo Advising website (page 512).
+Computer Science Department: The Computer Science Department offers several resources to support your academic success, including tutoring, study groups, and access to state-of-the-art computing facilities. You can visit the department's website (page 1524) for more information.
+University Writing Center: The University Writing Center offers free writing support to all UMKC students, including assistance with written assignments, research papers, and more. You can visit the Writing Center's website (page 810) to make an appointment or learn more about their services.
+Mathematics Department: If you need to satisfy your math pathway requirements, the Mathematics Department offers a variety of courses to help you achieve your goals. You can visit the Mathematics Department's website (page 810) for more information.
+Engineering Technology Center: The Engineering Technology Center offers resources such as 3D printing, laser cutting, and other advanced manufacturing technologies to support your projects. You can visit the Engineering Technology Center's website (page 512) for more information.
+Career Services: Career Services offers resources such as resume workshops, job fairs, and internship opportunities to help you launch your career after graduation. You can visit the Career Services website (page 512) for more information.
+Library Resources: The University Library offers access to a vast collection of books, journals, and other resources to support your academic success. You can visit the Library's website (page 810) to learn more about their resources.
+Tutoring Services: The University offers tutoring services for various subjects, including math, science, and writing. You can visit the Tutoring Services website (page 512) to make an appointment or learn more about their services. By taking advantage of these resources, you can ensure that you have the support you need to succeed in your studies at UMKC. Good luck with your studies!"
+"Can you outline the typical career paths and job opportunities available to graduates with a Master's in Computer Science from UMKC, particularly in fields such as data science, construction engineering, or interdisciplinary roles combining both areas?","Graduates with a Master's in Computer Science (MSCS) from UMKC have a wide range of career paths and job opportunities available, with potential specializations in data science, construction engineering, or interdisciplinary roles combining both areas:
+
+**General Career Paths:**
+
+* **Software Engineer:** Design, develop, and test software applications across various industries.
+* **Data Scientist:** Analyze large datasets to extract insights, build predictive models, and inform decision-making.
+* **Machine Learning Engineer:** Develop and implement machine learning algorithms for various applications.
+* **Systems Engineer:** Design, deploy, and maintain computer systems and networks.
+* **Security Analyst:** Protect computer systems and networks from cyber threats.
+* **Software Architect:** Design and oversee the overall architecture of software systems.
+
+**Data Science Specialization:**
+
+* **Data Analyst:** Clean, organize, and analyze data to identify trends and patterns.
+* **Business Intelligence Analyst:** Use data analysis to gain insights for business decision-making.
+* **Data Visualization Specialist:** Create visual representations of data to communicate findings effectively.
+* **Data Architect:** Design and manage data infrastructure for organizations.
+
+**Construction Engineering Specialization:**
+
+* **Construction Software Developer:** Develop software tools and applications specific to the construction industry, like BIM tools.
+* **Data Analyst in Construction:** Analyze construction project data for cost estimation, scheduling optimization, and risk management.
+* **Building Information Modeling (BIM) Specialist:** Utilize BIM software to create digital models of buildings for design, construction, and facility management.
+
+**Interdisciplinary Roles:**
+
+* **Construction Data Scientist:** Combine data science expertise with construction knowledge to analyze project data and develop data-driven solutions for the industry.
+* **BIM Systems Engineer:** Integrate BIM technology with other software systems and manage data workflows within construction projects.
+* **Smart Building Engineer:** Develop and implement technology solutions for intelligent buildings, optimizing energy efficiency and occupant comfort.
+
+**Additional Factors Influencing Career Paths:**
+
+* **Emphasis Area:** Choosing an emphasis area within the MSCS program, like data science or cybersecurity, can further refine career options.
+* **Elective Courses:** Strategic selection of elective courses can provide specialized skills relevant to desired career paths.
+* **Research Experience:** Participating in research projects related to data science or construction engineering can provide valuable experience and enhance your profile.
+* **Internships:** Internships in relevant industries offer practical experience and potential job opportunities after graduation.
+
+**Resources for Career Exploration:**
+
+* **UMKC Career Services:** Provides personalized career guidance, resume writing workshops, and job search assistance.
+* **UMKC School of Computing and Engineering:** Connects students with alumni working in various computer science fields.
+* **Professional Associations:** Joining associations like ACM or IEEE provides access to industry resources and networking opportunities.
+
+By leveraging the flexibility of the UMKC MSCS program, focusing on relevant coursework and research, and actively seeking opportunities, graduates can position themselves for successful careers in diverse fields, including data science, construction engineering, or interdisciplinary roles that bridge both areas.
+","Of course! As a virtual assistant for UMKC's MSCS program, I'd be happy to provide information on typical career paths and job opportunities available to graduates with a Master's in Computer Science. Graduates with an MSCS degree from UMKC have a wide range of career options across various fields, including data science, construction engineering, and interdisciplinary roles that combine both areas. Here are some typical career paths and job opportunities: Data Science:
+
+Data Analyst/Data Engineer: Graduates can work as data analysts or data engineers in various industries such as healthcare, finance, marketing, or government. They will design and implement data management systems, analyze complex data sets, and communicate insights to stakeholders.
+Data Scientist: Data scientists use machine learning algorithms to extract insights from large datasets. They work in industries such as healthcare, finance, or retail and help organizations make data-driven decisions.
+Data Engineer: Data engineers design and build large-scale data management systems. They work in industries such as finance, healthcare or retail and ensure that data systems are scalable, secure, and efficient. Construction Engineering:
+Construction Engineer: Construction engineers design and manage construction projects from start to finish. They work on projects such as buildings, bridges, or roads and ensure that they are safe, efficient, and within budget.
+Project Manager: Project managers oversee construction projects from start to finish. They work on projects such as buildings, bridges, or roads and ensure that they are completed on time and within budget. Interdisciplinary Roles:
+Data Scientist/Construction Engineer: Graduates can work as data scientists or construction engineers, combining their knowledge of data analysis and construction management to optimize construction processes or design more efficient data management systems.
+Data Engineer/Software Engineer: Graduates can work as data engineers or software engineers, combining their knowledge of data management and software development to create more efficient data management systems or build software applications that can be used in construction or other industries. Other job opportunities available to MSCS graduates include:
+Software Engineer: Graduates can work as software engineers in various industries such as healthcare, finance, or retail. They will design and develop software applications that meet the needs of organizations or customers.
+IT Consultant: IT consultants work with organizations to identify technology solutions that meet their business needs. They analyze an organization's IT infrastructure and make recommendations on how to improve it.
+Technical Lead: Technical leads work on software development teams and manage the technical aspects of projects. They ensure that projects are completed on time and within budget and that they meet the needs of stakeholders.
+Research Scientist: Research scientists work in academia or industry and conduct research in computer science or related fields. They publish papers in academic conferences or journals and work on projects that advance the field of computer science.
+Overall, MSCS graduates from UMKC have a wide range of career options across various fields, including data science, construction engineering, and interdisciplinary roles that combine both areas. With their strong technical skills and knowledge of computer science principles, they can make meaningful contributions to organizations across industries."
+What are the typical working hours for students at the UMKC library?,"There isn't a specific mention of typical working hours for students at the UMKC library. However, the library hours itself are:
+
+* Miller Nichols Library: 7:30AM - 12AM Monday - Thursday, 7:30AM - 10PM Friday, 11AM - 10PM Saturday, 11AM - 12AM Sunday
+* Health Sciences Library: 7:30AM - 10PM Monday - Thursday, 7:30AM - 5PM Friday, Closed Saturday & Sunday
+* Music/Media Library: Same hours as Miller Nichols Library
+
+This gives students a wide range of hours to work throughout the week, with extended hours on weekdays and weekend availability. 
+","Hello! I'm happy to help you with your question. The typical working hours for students at the UMKC library vary depending on the location and the time of year. Here are the hours for each library location: Miller Nichols Library:
+
+Monday - Thursday: 7:30 am - 10:00 pm
+Friday: 7:30 am - 5:00 pm
+Saturday: 9:00 am - 5:00 pm
+Sunday: 12:00 pm - 10:00 pm
+Volker Campus Library:
+
+Monday - Thursday: 7:30 am - 10:00 pm
+Friday: 7:30 am - 5:00 pm
+Saturday: 9:00 am - 5:00 pm
+Sunday: 12:00 pm - 10:00 pm
+Health Sciences Campus Library:
+
+Monday - Thursday: 7:30 am - 10:00 pm
+Friday: 7:30 am - 5:00 pm
+Saturday: 9:00 am - 5:00 pm
+Sunday: 12:00 pm - 10:00 pm Please note that these hours may be subject to change, so it's always a good idea to check the library's website or call ahead to confirm before visiting."
+What steps should international students take to secure a research assistant position at UMKC?,"Here are some steps international students can take to secure a research assistant position at UMKC:
+
+**Research Available Positions:**
+
+1. **UMKC Job Board:**  
+   Check the UMKC job board for open research assistant positions: [https://www.umkc.edu/hr/careers/](https://www.umkc.edu/hr/careers/)
+   Filter by ""Academic Positions"" to focus on opportunities within departments.
+
+2. **School of Graduate Studies:**
+   Visit the ""Assistantships"" page of the UMKC School of Graduate Studies: [https://sgs.umkc.edu/affordability-and-funding/assistantships.html](https://sgs.umkc.edu/affordability-and-funding/assistantships.html)
+   While many positions are filled through admissions, you can inquire about potential openings with your academic unit, program, or other UMKC offices. They might also advertise positions in graduate student emails.
+
+3. **Contact Professors Directly:**
+   Identify professors in your field of interest and reach out directly to express your research interest and inquire about potential research assistant opportunities. 
+   Highlight your skills and relevant experience in your email.
+
+**Additional Tips:**
+
+* **Network:** Attend academic events, department talks, or research group meetings to connect with faculty and learn about potential openings.
+* **Highlight Relevant Skills:** Emphasize your research experience, data analysis skills, attention to detail, and strong communication skills in your resume and application materials.
+* **Address Visa Requirements:**  
+   Research visa requirements for international students working on campus. Ensure the position aligns with your visa status and authorization for employment.
+* **Utilize International Student Resources:** 
+   The UMKC International Student and Scholar Services office can provide guidance and support throughout the process: [https://www.umkc.edu/isao/](https://www.umkc.edu/isao/)
+
+By following these steps and actively seeking opportunities, international students can increase their chances of securing a research assistant position at UMKC.
+","As a virtual assistant for UMKC, I'm happy to help international students navigate the process of securing a research assistant position on campus! Here are some steps you can take:
+
+Review the admission requirements: Before applying for a research assistant position, make sure you meet the admission requirements for graduate study at UMKC. Check the catalog for program-specific requirements and English proficiency standards.
+Identify potential research areas: Research departments at UMKC offer various areas of study. Look into the research interests of faculty members in your desired department and identify potential research areas that align with your academic background and interests.
+Check for available research assistant positions: Look for available research assistant positions on the UMKC job board or reach out to faculty members directly to inquire about research opportunities. Some departments may also have a list of pre-approved research assistants.
+Prepare your application materials: Once you've identified potential research areas, prepare your application materials. This may include a resume or CV, a cover letter highlighting your research experience and interests, and contact information for faculty members you'd like to work with. Make sure your application materials are tailored to the specific research opportunity you're applying for.
+Submit your application: Once you've prepared your application materials, submit them to the appropriate department or faculty member. Be sure to follow any specific instructions provided by the department or faculty member.
+Interview or audition (if applicable): Depending on the research opportunity, you may be required to interview or audition as part of the application process. Make sure you're prepared to discuss your research experience, qualifications, and goals.
+Accept or decline an offer: Once you've been offered a research assistant position, carefully review the terms of your appointment before accepting or declining the offer. Make sure you understand your responsibilities, compensation, and any other details related to your appointment. By following these steps, international students can increase their chances of securing a research assistant position at UMKC. Good luck!"
+Is there a program at UMKC that provides laptops to students for the duration of a semester to support their academic projects?,"However, there is a program at UMKC that addresses your need:
+
+* **Laptop Loaner Program:** 
+   Managed by UMKC Career Services, this program allows students to borrow laptops for an entire semester (Fall and Spring). 
+   Its goal is specifically to provide all students with the necessary technology to succeed academically. 
+   You can find more details and information on how to borrow a laptop here: [https://www.umkc.edu/career-services/students/laptop-loaner-program.html](https://www.umkc.edu/career-services/students/laptop-loaner-program.html)
+","Hello! I'm here to help you find the information you need. Unfortunately, there isn't a program at UMKC that provides laptops to students for the duration of a semester to support their academic projects. However, there may be other resources available to support your academic success. The UMKC Student HelpLine (https://www.umkc.edu/student-affairs/services/student-helpline/) is available 24/7 for questions about policies, procedures, resources, complaints, and general questions about the university. You can also contact the UMKC Dean of Students Ofﬁce (https://www.umkc.edu/student-affairs/) or the Student Services Ofﬁces located in the Academic Units (https://www.umkc.edu/student-affairs/about-us/program-contacts.html) for assistance. Additionally, the UMKC School of Graduate Studies provides many different types of fellowships, awards, and scholarships to qualified graduate students through a competitive selection process. You can visit their website (https://www.umkc.edu/gradstudies/) for more details. I hope this information helps! If you have any other questions or concerns, please feel free to ask."
+How can international students apply for teaching assistant positions at UMKC?,"Here's how international students can apply for teaching assistant (TA) positions at UMKC:
+
+**Certification Requirement:**
+
+* Be aware that all international students, except those with a U.S. degree, need to complete a certification process before being eligible for TA positions (Graduate Teaching Assistant or GTA). This involves an assessment of your English language proficiency and teaching skills. 
+* Details on the certification process and eligibility criteria can be found here: [https://catalog.umkc.edu/general-graduate-academic-regulations-information/international-graduate-student-academic-regulations/](https://catalog.umkc.edu/general-graduate-academic-regulations-information/international-graduate-student-academic-regulations/)
+
+**Application Process:**
+
+* **Check Available Positions:**
+    - Many TA positions are filled through the admissions process for graduate programs. 
+    - However, you can still inquire about potential openings with your academic unit, program, or other UMKC offices.
+    - They might advertise positions through graduate student emails or on the UMKC job board: [https://www.umkc.edu/hr/careers/](https://www.umkc.edu/hr/careers/)
+    - Filter by ""Academic Positions"" to focus on relevant opportunities.
+* **Contact Professors Directly:**
+    - Identify professors in your field of interest and reach out directly to express your interest in a TA position. 
+    - Highlight your teaching experience (if any), relevant academic background, and strong English language skills in your email.
+* **Additional Resources:**
+    - The UMKC School of Graduate Studies provides information on assistantships, including TA positions: [https://sgs.umkc.edu/affordability-and-funding/assistantships.html](https://sgs.umkc.edu/affordability-and-funding/assistantships.html)
+    - The International Student and Scholar Services office can offer guidance and support throughout the process: [https://www.umkc.edu/isao/](https://www.umkc.edu/isao/)
+
+**Important Considerations:**
+
+* **Visa Requirements:** Ensure your visa status allows employment on campus and aligns with the specific TA position requirements.
+* **Application Deadlines:** Many TA positions have application deadlines, so check with the department or professor for specific information.
+
+By following these steps and actively seeking opportunities, international students can increase their chances of securing a teaching assistant position at UMKC. Remember to prioritize completing the required certification process well in advance.
+","Hello! I'm happy to help you with your question. To apply for teaching assistant positions at UMKC as an international student, you will need to meet certain requirements beyond the standard admission requirements for graduate study at UMKC. Here are the additional steps you can take:
+
+Attain a qualifying TOEFL or equivalent score: As an international student, you will need to demonstrate your English language proficiency by taking a recognized English language proficiency test such as TOEFL (Test of English as a Foreign Language) or IELTS (International English Language Testing System). The minimum score required for TOEFL is 80 (ibT) or 213 (CBT), depending on the program you are applying to.
+Submit proof of English proficiency: Along with your application, you will need to submit proof of your English language proficiency, such as a TOEFL or IELTS score report or a letter from your undergraduate or graduate institution where English is the primary language of instruction.
+Complete cultural orientation: As an international student who has not previously lived in the United States, you will be required to participate in cultural orientation before being eligible for teaching assistant positions. This orientation will help you understand the cultural norms and expectations of UMKC and prepare you for your academic and professional experiences in the United States.
+Meet additional program-specific requirements: Some graduate programs at UMKC may have additional requirements for international students seeking teaching assistant positions. Be sure to review the requirements for your program of interest and consult with your academic advisor or program director to ensure you meet all necessary standards. By meeting these additional requirements, international students can be considered for teaching assistant positions at UMKC. I hope this helps! Let me know if you have any further questions."
+Are there specific grant programs or funding opportunities that UMKC supports for research endeavors?,"Yes, UMKC offers several grant programs and funding opportunities to support research endeavors. Here are some key resources:
+
+**University-Level Funding:**
+
+* **Funding for Excellence (FFE):** This institutionally-funded program supports high-level research across various disciplines. It has two distinct pools:
+    * Pool 1: Focuses on Health Sciences, STEM, and Education fields.
+    * Pool 2: Focuses on Arts, Humanities, and Social Sciences fields.
+    
+    More details and application information can be found here: [[invalid URL removed]]
+
+**School of Graduate Studies (SGS) Grants:**
+
+* **SGS Research Grants:** The School of Graduate Studies offers grants specifically for graduate student research projects, with a maximum award of $7,500.
+    
+    More details and application deadlines can be found here: [https://sgs.umkc.edu/affordability-and-funding/grants.html](https://sgs.umkc.edu/affordability-and-funding/grants.html)
+
+**Undergraduate Research and Creative Scholarship:**
+
+* **Students Engaged in the Arts and Research (SEARCH):** Provides up to $1,250 for student-led, faculty-mentored research projects undertaken during the academic year.
+* **Summer Undergraduate Research Opportunity (SUROP):** Offers a $2,000 tuition grant and up to $1,250 in research expenses for student projects during the summer term.
+
+    More information and application details are available here: [https://www.umkc.edu/undergraduate-research/student-grants/index.html](https://www.umkc.edu/undergraduate-research/student-grants/index.html)
+
+**Additional Resources:**
+
+* **Office of Research Services (ORS):** This office provides comprehensive support for faculty and students seeking research funding. They offer assistance with:
+    * Proposal development and writing
+    * Identifying potential funding sources (federal, state, private)
+    * Navigating grant submission processes
+
+    Visit their website for more information and resources: [https://ors.umkc.edu/](https://ors.umkc.edu/)
+
+Remember, these are just some of the funding opportunities available at UMKC. It's crucial to explore resources specific to your field and research interests. Both the ORS and your academic department can be valuable resources in guiding you towards relevant funding opportunities.
+","Hello! Yes, UMKC provides various grant programs and funding opportunities for research endeavors. The UMKC School of Graduate Studies offers many different types of fellowships, awards, and scholarships to qualified graduate students through a competitive selection process. Additionally, the department chair and doctoral faculty members will try their best to provide funding to Ph.D. students throughout their study, but it's important to note that the number of funding slots (GRA and GTA) is not unlimited, and the awarding of GRA and GTA funding is a competitive process. To be eligible for continuous support, Ph.D. students must maintain high academic standing and demonstrate strong research performance. Our department's policy is to provide support to as many Ph.D. students as possible. Moreover, UMKC offers exciting opportunities for undergraduate students to engage in cutting-edge research, innovative scholarship, and groundbreaking artistic work alongside faculty members. Undergraduates can enroll in EUReka classes (Experiences in Undergraduate Research), apply for small grants through SEARCH (Students Engaged in the Arts and Research) and SUROP (Summer Undergraduate Research Opportunity), participate in research sponsored by external funders such as the National Science Foundation, National Institutes of Health, and National Endowment for the Humanities, and use their federal work-study awards to gain experience as Undergraduate Research Associates. Full details about Undergraduate & Creative Scholarship at UMKC are available at https://www.umkc.edu/searchsite/. In terms of specific grant programs or funding opportunities, UMKC School of Medicine offers opportunities for research funding through the UMKC School of Medicine Research Fund, which aims to catalyze translational and health outcomes research, advance existing programmatic excellence in health outcomes, informatics, patient safety, and community health, and join forces with academic, clinical, and community partners to develop a UMKC Health Sciences research agenda. Additionally, UMKC encourages collaboration with industry partners to pursue innovative entrepreneurial opportunities and enhance the ability of clinical partners to deliver state-of-the-art patient care. I hope this information helps! If you have any further questions or need additional assistance, please don't hesitate to ask!"

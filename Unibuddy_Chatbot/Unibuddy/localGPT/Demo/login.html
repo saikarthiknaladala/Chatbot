@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login/Register</title>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-database.js"></script>
+    <style>
+     body {
+    font-family: 'Roboto', Arial, sans-serif; /* Use a more modern font */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+    color: #333; /* Set a default text color */
+}
+
+.container {
+    width: 400px;
+    background-color: #fff;
+    border-radius: 12px; /* Increase border-radius for a softer look */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add more depth to the shadow */
+    padding: 40px;
+    box-sizing: border-box;
+    transition: box-shadow 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.container:hover {
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2); /* Increase shadow on hover */
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #333;
+    font-size: 24px; /* Increase font size for better readability */
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="password"],
+button {
+    display: block;
+    width: 100%;
+    padding: 12px; /* Increase padding for better usability */
+    margin-bottom: 15px; /* Increase margin for better spacing */
+    border: 1px solid #ccc;
+    border-radius: 8px; /* Increase border-radius for a softer look */
+    box-sizing: border-box;
+    font-size: 16px;
+    transition: border-color 0.3s ease; /* Smooth transition for focus effect */
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="tel"]:focus,
+input[type="password"]:focus {
+    border-color: #007bff; /* Change border color on focus */
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    border: none; /* Remove default button border */
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.toggle-form {
+    text-align: center;
+    margin-top: 20px;
+    color: #555;
+    font-size: 14px; /* Increase font size for better readability */
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+.toggle-form:hover {
+    color: #333; /* Change color on hover */
+}
+
+    </style>
+</head>
+<body>
+    <div id="loginForm" class="container">
+        <h2>Login</h2>
+        <input type="email" id="email" placeholder="Email" required>
+        <input type="password" id="password" placeholder="Password" required>
+        <button onclick="login()">Login</button>
+        <div class="toggle-form">
+            <span>Don't have an account? <a href="#" onclick="toggleForms()">Register</a></span>
+        </div>
+    </div>
+
+    <div id="registerForm" class="container" style="display: none;">
+        <h2>Register</h2>
+        <input type="text" id="full_name" placeholder="Full name" required>
+        <input type="email" id="register_email" placeholder="Email" required>
+        <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="Enter Mobile Number" required>
+        <input type="text" id="university" placeholder="University Name" required>
+        <input type="password" id="register_password" placeholder="New Password" required>
+        <button onclick="register()">Register</button>
+        <div class="toggle-form">
+            <span>Already have an account? <a href="#" onclick="toggleForms()">Login</a></span>
+        </div>
+    </div>
+
+    <script>
+        // Your web app's Firebase configuration
+        var firebaseConfig = {
+            apiKey: "AIzaSyAyX1XejPVzi3VZjmHrsrFuubLZzZ-ycoE",
+            authDomain: "login-info-134a1.firebaseapp.com",
+            projectId: "login-info-134a1",
+            storageBucket: "login-info-134a1.appspot.com",
+            messagingSenderId: "362592688125",
+            appId: "1:362592688125:web:75e6a093b01366ad95ab94",
+            measurementId: "G-V0F4BQRCL2"
+        };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+        const auth = firebase.auth();
+        const database = firebase.database();
+
+        function login() {
+            var email = document.getElementById('email').value;
+            var password = document.getElementById('password').value;
+
+            auth.signInWithEmailAndPassword(email, password)
+                .then((userCredential) => {
+                    // Redirect to the Streamlit application
+                    window.location.href = "http://localhost:8505/?email=" + email;
+                })
+                .catch((error) => {
+                    var errorMessage = error.message;
+                    alert(errorMessage);
+                });
+        }
+
+        function register() {
+            // Get all our input fields
+            var email = document.getElementById('register_email').value;
+            var password = document.getElementById('register_password').value;
+            var full_name = document.getElementById('full_name').value;
+            var university = document.getElementById('university').value;
+            var phonenumber = document.getElementById('phone').value;
+
+            // Validate input fields
+            if (validate_email(email) == false || validate_password(password) == false) {
+                alert('Email or Password is Outta Line!!');
+                return;
+            }
+            if (validate_field(full_name) == false || validate_field(university) == false || validate_field(phonenumber) == false) {
+                alert('One or More Extra Fields is Outta Line!!');
+                return;
+            }
+
+            // Move on with Auth
+            auth.createUserWithEmailAndPassword(email, password)
+                .then(function() {
+                    // Declare user variable
+                    var user = auth.currentUser;
+
+                    // Add this user to Firebase Database
+                    var database_ref = database.ref();
+
+                    // Create User data
+                    var user_data = {
+                        email: email,
+                        full_name: full_name,
+                        university: university,
+                        phonenumber: phonenumber,
+                        last_login: Date.now()
+                    };
+
+                    // Push to Firebase Database
+                    database_ref.child('users/' + user.uid).set(user_data);
+
+                    // Reset all input fields
+                    document.getElementById('register_email').value = '';
+                    document.getElementById('register_password').value = '';
+                    document.getElementById('full_name').value = '';
+                    document.getElementById('university').value = '';
+                    document.getElementById('phone').value = '';
+
+                    // Done
+              
+                    alert('Successfully Registered!!');
+                    //window.location.href = "login.html";
+                    //redirectToStreamlit(email);
+                })
+                .catch(function(error) {
+                    // Firebase will use this to alert of its errors
+                    var error_code = error.code;
+                    var error_message = error.message;
+
+                    alert(error_message);
+                });
+        }
+
+        function toggleForms() {
+            var loginForm = document.getElementById('loginForm');
+            var registerForm = document.getElementById('registerForm');
+
+            if (loginForm.style.display === 'none') {
+                loginForm.style.display = 'block';
+                registerForm.style.display = 'none';
+            } else {
+                loginForm.style.display = 'none';
+                registerForm.style.display = 'block';
+            }
+        }
+
+        // Helper function to validate email
+        function validate_email(email) {
+            // Validate email with regular expression
+            var re = /\S+@\S+\.\S+/;
+            return re.test(email);
+        }
+
+        // Helper function to validate password
+        function validate_password(password) {
+            // Password should be at least 6 characters long
+            return password.length >= 6;
+        }
+
+        // Helper function to validate field is not empty
+        function validate_field(field) {
+            return field.trim() !== '';
+        }
+        
+        // Function to redirect to Streamlit application
+       // function redirectToStreamlit(email) {
+            // Redirect to the Streamlit application
+        //    window.location.href = "http://localhost:8509/?email=" + email;
+       // }
+    </script>
+</body>
+</html>
